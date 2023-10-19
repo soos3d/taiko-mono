@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.10.0](https://github.com/taikoxyz/taiko-mono/compare/bridge-ui-v2-v2.9.0...bridge-ui-v2-v2.10.0) (2023-10-19)
+
+
+### Features
+
+* **bridge-ui-v2:** add title to toast ([#14962](https://github.com/taikoxyz/taiko-mono/issues/14962)) ([91ff244](https://github.com/taikoxyz/taiko-mono/commit/91ff2446dd07354ee88e1357184ba5063bb43db6))
+
 ## [2.9.0](https://github.com/taikoxyz/taiko-mono/compare/bridge-ui-v2-v2.8.0...bridge-ui-v2-v2.9.0) (2023-10-18)
 
 
